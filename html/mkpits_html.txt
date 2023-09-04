@@ -1,0 +1,212 @@
+<html>
+<head>
+<title>MKP IT Solutions</title>
+</head>
+
+<body style="margin:0px;">
+
+<table border="0px" width="100%">
+<tr>
+<th width="5%"></th>
+<th width="10%"><a href="index1.html"><img src="MKPITS_Logo.png" width="100px"></th>
+<th width="30%"></th>
+<th width="10%"><a href="index1.html" style="text-decoration:none;">Home</th>
+<th width="10%"><a href="file:///C:/Users/INTEGRAL%20COMPUTER/Desktop/html/about%20usss.html" style="text-decoration:none;">About</th>
+<th width="10%"><a href="https://mkpits.in/admission.html" style="text-decoration:none;">Admission</th>
+<th width="10%"><a href="https://mkpits.in/placement.html" style="text-decoration:none;">Job Placement</th>
+<th width="10%"><a href="https://mkpits.in/contact.html" style="text-decoration:none;">Contact</th>
+<th width="10%"><a href="https://mkpits.in/courses.html"  style="text-decoration:none;">Courses</th>
+</tr>
+</table>
+
+<div width="100%" style="background-image:url(background3.jpg);background-repeat:no-repeat;background-size:cover; height:300px;">
+<table border="1px">
+<tr>
+<h1 style="padding-left:6 0px;padding-top:60px;">Learning Today,<br>
+Leading Tomorrow</h1>
+<h3>We are a team of highly experienced people helping freshers to secure job in IT</h3>
+</tr>
+</p>
+<a href="getstarted.html" style="text-decoration:none;
+color:white;margin-left:80px;font-size:24px;border:1px solid;padding:10px;
+border-radius:15px;"> 
+Get Started</a>
+</table>
+</div>
+
+
+<table width=100% style="padding:60px background-color:#009DD3;">
+<tr>
+<td>
+<h1>WELCOME TO MKP IT SERVICES</h1>
+<p>
+<b>MKP IT Services is a leading training</b>, job and staffing services provider in Nagpur. We have over a decade of presence now. Previously we were known as <b>MK Placements and Education Services</b> We also provide services in Pune, Hyderabad, Bangalore, Mumbai, Indore, Bhopal and more cities. Our valuable services are:
+</p>
+<ul>
+<li><b>Training and Internship:</b> We conduct high end training and provide intership program to freshers to strengthen them with corporate required skills
+ <li><b>Campus Placement Services:</b> We conduct placements services for freshers, skilled and semi-skilled candidates
+<li><b>Lateral Placement Services:</b> Placement services for junior, mid level and senior level recruitment
+Job fairs at College Level:</b> Conduct job fairs for aspiring students at college level
+<li><b>
+<p>
+We provide excellent Placement Consultancy to our clients. Understanding the requirements and skills of our job seekers, we guide them in order to assure their maximum satisfaction. Our Placement Consultancy provides a correct guiding path to the aspirants that will help them grow at the individual as well as professional level.
+</p>
+<p>
+
+We carefully evaluate the skills, talent and interest of our aspirants and accordingly advice them with the best companies and job profiles. Our team is well upgraded with the latest and up to date developments taking place in diverse industries which helps in providing the most effective and productive outcomes.
+</p>
+<p>
+
+We have had a successful track record of meeting the vast manpower requirements of varied industries. In fact, we excel in providing correct direction in case of overseas placement by providing prospective options to the job seekers that facilitate smooth overseas placement of our aspirants. We divert all our efforts in ensuring maximum customer satisfaction.
+</p>
+
+</ul>
+</td>
+
+<td style="width:50%;">
+	
+	<img src="about.jpg" style="width:100%;margin-left:10px;" />
+	</td>
+	</tr>
+</table>
+	
+
+	
+	<!-- student placed section -->
+	<table width=100% style="padding:50px;background-color:#D38000; ">
+	<tr>
+	<th style="width:25%;">
+	<h1>10321</h1>
+<h3>Students Placed</h3>
+	</th>
+	<th style="width:25%;">
+        <h1>9 year</h1>
+	<h3>year of service</h3>
+	</th>
+	<th style="width:25%;">
+        <h1>42</h1>
+        <h3>event conducted</h3>
+	</th>
+	<th style="width:25%;">
+        <h1>32</h1>
+        <h3>client tieups</h3>
+	</th>
+	</tr>
+	</table>
+        <table width=100% style="padding:50px;">
+<tr>
+<td style="width=30%;padding:80px;background-color:#DDA658 ;"><h1><b>Why Choose MKP IT Services?</b></h1>
+        <h3>We have a rich experience in training and placement with specialization in IT. We are backed by the industry experienced professional. We provide intership with 100% job guarantee with easy 0% EMI options. We provide lifetime membership where candidates can get free upgrade on the courses for lifetime. We have tie-up with reputed engineering colleges in Maharashtra, Chattisgarh, Madhya Pradesh for placement activities.</h3>
+<a href="black margin-left:60px;font-size:20px;border:1px solid;padding:10px;
+border-radius:25px;">
+</a>
+</td>
+       
+       <th style="width:22%;padding:50px;">
+	<h2>Training and Placement</h2>
+        <h3>IT Intership with 100% job guarantee on easy 100% finance scheme with 0% interest EMI</h3>
+</th>
+        <th style="width:22%;">
+        <h2>Admission Consultancy</h2>
+        <h3>We handle admission for engineering, nursing,medical for colleges all over India and abroad</h3>
+</th>
+        <th style="width=22%">
+        <h2>Software Development</h2>
+        <h3>We are a product based IT company<br>where we have developed our in-house software</br></h3>
+</th>
+ </table>
+<h4 style="padding-left:100px;">placements-----<h4>
+<h1 style="padding-left:100px;">our students work for<h1>
+<table border="0" width="100%,style="padding:75px;">
+<tr>
+<th><img src="C:\Users\INTEGRAL COMPUTER\Desktop\html\prachi1.png"></th>
+<th><img src="C:\Users\INTEGRAL COMPUTER\Desktop\html\excellon.png"></th>
+<th><img src="C:\Users\INTEGRAL COMPUTER\Desktop\html\chitkara.png"></th>
+<th><img src="C:\Users\INTEGRAL COMPUTER\Desktop\html\fendhal.png"></th>
+<th><img src="C:\Users\INTEGRAL COMPUTER\Desktop\html\hcl.png"></th>
+<th><img src="C:\Users\INTEGRAL COMPUTER\Desktop\html\ibm.png"></th>
+
+
+</tr>
+</table>
+<table border="0" width="100%">
+<tr>
+<th><img src="C:\Users\INTEGRAL COMPUTER\Desktop\html\mahindra.png"></th>
+<th><img src="C:\Users\INTEGRAL COMPUTER\Desktop\html\sbjain.png"></th>
+<th><img src="C:\Users\INTEGRAL COMPUTER\Desktop\html\tcs.jpg"></th>
+<th><img src="C:\Users\INTEGRAL COMPUTER\Desktop\html\innoeye.jpg"></th>
+<th><img src="C:\Users\INTEGRAL COMPUTER\Desktop\html\thoughtworks.jpg"></th>
+</tr>
+</table>
+<h4 style="padding-left:100px;">courses----</h4>
+<h1 style="padding-left:100px;">POPULAR COURSES</h1>
+<table border="0" width="100%",style ="padding:75px;">
+<tr> 
+<th style="width :30%;">
+<img src="C:\Users\INTEGRAL COMPUTER\Desktop\html\java.jpg"/ style="width:230px;height:150px;">
+<h2>Java FullStack Developer</h2>
+<h3>Fullstack Java developer will learn end to end implementation of the java project which includes git, UML, CI/CD pipeline, requirement gathering and deployment of java capstone project on cloud
+</h3></th>
+<th style="width :30%;">
+<img src="C:\Users\INTEGRAL COMPUTER\Desktop\html\python.jpg" style="width:230px;height:150px;">
+<h2>Python Fullstack</h>
+<h3>Fullstack Python with Django and Flask developer will learn end to end implementation of the python project which includes git, UML, CI/CD pipeline, requirement gathering and deployment of python capstone project on cloud
+</h3></th>
+<th style="width:30%;">
+<img src="C:\Users\INTEGRAL COMPUTER\Desktop\html\dotnet.jpg" / style="width:230px;height:150px;">
+<h2>dotnet full stack</h2>
+<h3>Fullstack Dotnet developer will learn end to end implementation of the .NET project which includes git, UML, CI/CD pipeline, requirement gathering and deployment of .NET capstone project on cloud
+</h3></th>
+
+</tr>
+</table>
+<table border="0" width="100%",style="padding-left:100px,padding-right:100px;">
+<tr>
+<td width:"40%;">
+<h2>Address</h2>
+<h4>2nd Floor, Fortune Mall, Munje Square, Sitabuldi, Nagpur, MH - 440013</h4>
+<h4>Phone: +91-78880-66630</h4>
+<h4>Email: support@mkpits.in, jobs@mkpits.in</h4>
+<td width:"40%;">
+<h2>Useful Links</h2>
+<a href="index1.html">
+<li>Home
+<li><a href="file:///C:/Users/INTEGRAL%20COMPUTER/Desktop/html/about%20usss.html">About us</a>
+<a href="file:///C:/Users/INTEGRAL%20COMPUTER/Desktop/html/desclaimer.html">Desclaimer</a?
+<li>Terms and conditions
+<li>privacy policy
+</ul>
+<td width:"40%;">
+<h2>Our services</h2>
+<ul>
+<li>IT internship
+<li>Skill Training
+<li>Freshers and lateral placements
+<li>Admission
+<li>Software Development
+</ul>
+</tr>
+</table>
+<table border="1" padding-left:100px;>
+<br>
+<p>
+<th width:"5%";></th></tablee><br>
+© Copyright MKP IT Services. All Rights Reserved<br>
+Designed and Maintained by MKP IT Services Pvt. Ltd.</h2>
+</br>
+</th>
+
+
+
+        
+        
+	
+	
+	</body>
+
+
+</html>
+</div>
+</body>
+</table>
+</html>
