@@ -1,0 +1,17 @@
+<html>
+<body>
+<head>
+<style>
+p.solid {border-style:solid;}
+p.double {border-style:doule;}
+p.groove {border-style:groove;}
+p.dotted {border-style:dotted;}
+</style>
+</head>
+<body>
+<p class ="solid">this is mkpits</p>
+<p class ="double">this is mkpits</p>
+<p class ="groove">this is mkpits</p>
+<p class ="dotted">this is mkpits</p>
+</body>
+</html>
