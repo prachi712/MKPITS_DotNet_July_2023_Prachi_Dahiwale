@@ -1,6 +1,0 @@
-<html>
-<body>
-<p>this is inform to that our college is reopened at morning 
-<span style="text-transform:capitalize;"> mkpits </span>transform</p>
-</body>
-</html>
