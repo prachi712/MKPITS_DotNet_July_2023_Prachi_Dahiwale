@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Accept age from the user and display whether he is eligible to vote or not</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<script lang="javascript">
+    function ok()
+    {
+        var age=parseInt(document.getElementById("AGE").value);
+
+        if(age<18)
+        {
+            document.getElementById("result").innerHTML="You are monior, you are not eligible to vote";
+        }
+
+        else
+        {
+          document.getElementById("result").innerHTML="You are eligible to vote";
+        }
+        
+    }
+</script>
+<body>
+    <h2>Accept age from the user and display whether he is eligible to vote or not</h2><hr><br>
+
+    <form >
+
+        Enter Age: <input type="text" id="AGE"><br><br>
+
+        <button type="button" onclick="ok()">Submit</button><br><br>
+
+        <span id="result">Result show's here: </span>
+
+    </form>
+</body>
+</html>
