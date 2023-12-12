@@ -1,0 +1,9 @@
+create table employee(empid int primary key identity(1,1),empname varchar(20))
+insert into employee(empname)values ('prachu')
+select * from employee
+insert into employee(empname) values('swayam')
+select * from employee
+delete from employee where empname='swayam'
+insert into employee(empname) values('rajesh12')
+delete from employee
+select * from employee
